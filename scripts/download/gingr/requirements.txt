@@ -1,0 +1,4 @@
+playwright
+hf-argparser
+httpx
+beautifulsoup4
